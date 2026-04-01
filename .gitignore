@@ -1,0 +1,31 @@
+# entorno virtual
+.virtual_env/
+venv/
+.vscode/
+# python
+__pycache__/
+*.pyc
+
+# outputs
+outputs/
+*.tif
+*.joblib
+
+# datos pesados
+data/rasters_ascii/
+data/maps
+rasters/
+rasters_aligned/
+rasters_reproj/
+rasters_subset/
+rasters_wgs84
+shapefiles/
+tests/
+# OS
+.DS_Store
+Thumbs.db
+Resultados/
+occurrences.csv
+pyenmeval.egg-info/
+estructura.txt
+model_comparison.csv
