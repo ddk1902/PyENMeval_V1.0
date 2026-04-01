@@ -42,7 +42,7 @@ PyENMeval is designed for researchers who prefer working in **Python-based ecolo
 Clone the repository:
 
 ```bash
-git clone https://github.com/your_user/PyENMeval.git
+git clone https://github.com/ddk1902/PyENMeval_V1.0.git
 cd PyENMeval
 ```
 
